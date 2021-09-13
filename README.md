@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TTVPurpleUnicorn
 - 👀 I’m interested in Gta5 modding
-- 🌱 I’m currently learning all things
+- 🌱 I’m currently learning lua, JavaScript, CSS, HTML.
 - 💞️ I’m looking to collaborate on not much 
 - 📫 How to reach me ...
