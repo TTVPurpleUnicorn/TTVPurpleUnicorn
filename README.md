@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @TTVPurpleUnicorn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Gta5 modding
+- 🌱 I’m currently learning all things
+- 💞️ I’m looking to collaborate on not much 
 - 📫 How to reach me ...
-
-<!---
-TTVPurpleUnicorn/TTVPurpleUnicorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
